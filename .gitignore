@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/raw/*.wav
+data/raw/*.mp3
+.DS_Store
